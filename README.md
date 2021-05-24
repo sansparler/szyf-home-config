@@ -1,0 +1,2 @@
+# szyf-home-config
+
